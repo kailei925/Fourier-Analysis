@@ -1,7 +1,7 @@
 % MATLAB Calculate the Fourier Series of a Funtion
 % Input: function,order,integral limits
 % Output: a0,an,bn,fourier series
-% integral limit:a,b; Period: T = b-a 
+% Integral limit:a,b; Period: T = b-a 
 
 % Define a function
 % Sample: stepwise function
